@@ -1,0 +1,17 @@
+# Pycharm:
+.idea/
+.vscode/
+
+# Jupyter notebook:
+.ipynb_checkpoints/
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# My configurations:
+
